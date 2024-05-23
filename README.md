@@ -1,11 +1,3 @@
----
-title: 'Assignment 8: Wikipedia Scraping'
-author: Assignment written by Nathan Shelly
-date: 'Due Wednesday, May 15'
-geometry: margin=1in
-urlcolor: cyan
----
-
 You may work alone or in a pair. If you work in a pair, please make sure you document who you are working with in the comments of the program, and in Google Classroom.
 
 The purpose of this assignment is to explore the concept of "regular expressions" (regex) as well as download/install and use some existing python packages.
